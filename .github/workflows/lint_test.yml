@@ -92,4 +92,3 @@ jobs:
             registry-password: ${{ secrets.REGISTRY_PASSWORD }}
             name: aci-flaskapp
             location: 'korea central'
-
